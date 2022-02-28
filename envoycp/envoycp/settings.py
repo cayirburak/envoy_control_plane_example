@@ -27,7 +27,7 @@ DEBUG = True
 #APPEND_SLASH=False
 CSRF_COOKIE_SECURE = True
 CSRF_COOKIE_HTTPONLY = True
-ALLOWED_HOSTS = ['127.0.0.1','edscluster']
+ALLOWED_HOSTS = ['127.0.0.1','edscluster','139.59.131.179']
 
 
 # Application definition
